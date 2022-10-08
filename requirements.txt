@@ -1,4 +1,3 @@
 pyTelegramBotAPI==3.7.9
 SpeechRecognition
 fuzzywuzzy
-os
